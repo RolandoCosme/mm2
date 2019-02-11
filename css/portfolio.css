@@ -21,8 +21,8 @@
   font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-style:italic;
   font-size:25px;
-  line-height:25px;
+  line-height:35px;
   margin-bottom:25px;
-  color:red;
-  background-color: yellow;
+  color:#FF0000;
+  background-color: #FFFE0D;
 }
