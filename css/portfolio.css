@@ -16,3 +16,13 @@
   height: 100%;
   width: 100%;
 }
+
+.intro-lead-in2 {
+  font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-style:italic;
+  font-size:25px;
+  line-height:25px;
+  margin-bottom:25px;
+  color:red;
+  background-color: yellow;
+}
